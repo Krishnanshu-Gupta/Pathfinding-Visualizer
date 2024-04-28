@@ -13,4 +13,25 @@ Upon reaching the goal node, the program highlights the final path found by the 
 In some instances, the randomly generated grid may lack a viable path connecting the starting and ending nodes. In such cases, the console will display the message: "This randomly generated grid doesn't have a solution," and the program will terminate automatically.
 
 ## Output
-![](/Output/BFS_demo.mp4)
+Breadth-First-Search Demo Video
+
+![Breadth-First-Search Demo Video](https://github.com/Krishnanshu-Gupta/Pathfinding-Visualizer/assets/30324213/8b85a3a5-5ebd-4fb1-b4f8-2c47fe7e9ff9)
+
+---
+
+Breadth-First-Search Output
+
+![Breadth-First-Search Output](/Output/BFS.png)
+
+---
+
+Depth-First-Search Output
+
+![Depth-First-Search Output](/Output/DFS.png)
+
+---
+
+Uniform-Cost-Search Output
+
+![Uniform-Cost-Search Output](/Output/UCS.png)
+
