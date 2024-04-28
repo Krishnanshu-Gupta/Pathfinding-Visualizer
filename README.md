@@ -21,17 +21,17 @@ Breadth-First-Search Demo Video
 
 Breadth-First-Search Output
 
-![Breadth-First-Search Output](/Output/BFS.png)
+![Breadth-First-Search Output](/BFS.png)
 
 ---
 
 Depth-First-Search Output
 
-![Depth-First-Search Output](/Output/DFS.png)
+![Depth-First-Search Output](/DFS.png)
 
 ---
 
 Uniform-Cost-Search Output
 
-![Uniform-Cost-Search Output](/Output/UCS.png)
+![Uniform-Cost-Search Output](/UCS.png)
 
